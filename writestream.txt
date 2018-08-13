@@ -1,0 +1,21 @@
+A computer is a machine (mostly electronic) that is able to take information (input), and process it to make new information (output).
+
+Calculating machines are old in the history of technology. Early examples are the astrolabe and the abacus. Today a computer is a programmable machine. The two principal characteristics of a computer are: It responds to a specific instruction set in a well-defined manner and it can execute a prerecorded list of instructions (a program). There are four main processing steps in a computer: inputting, storage, outputting and processing.
+
+Modern computers are very different from early computers. They can do billions of calculations per second. Most people have used a personal computer in their home or at work. Computers do many different jobs where automation is useful. Some examples are controlling traffic lights, vehicle computers, security systems, washing machines and digital televisions.
+
+A computer user can control it by a user interface. Input devices include keyboard, mouse, buttons, and touch screens. Some very sophisticated computers can also be controlled with voice commands or hand gestures or even brain signals through electrodes implanted in the brain or along nerves.
+
+Computers can be designed to do almost anything with information. Computers are used to control large and small machines which in the past were controlled by humans. They are also in homes, where they are used for things such as listening to music, reading the news and writing.
+
+Modern computers are electronic computer hardware. They do mathematical arithmetic very quickly but computers do not really "think". They only follow the instructions in their software programs. The software uses the hardware when the user gives it instructions, and gives useful output.
+
+Computer programs are designed or written by computer programmers. A few programmers write programs in the computer's own language called machine code. Most programs are written using a programming language like C++, Java, and Fortran. These programming languages are more like the language with which one talks and writes every day. The compiler translates the user's instructions into binary code (machine code) that the computer will understand and do what is needed.
+Definition
+A computer is a programmable electronic device designed to accept data, 
+perform prescribed mathematical and logical operations at high speed, and display the
+ results of these operations, all under the control of software. 
+ Mainframes, desktop and laptop computers, tablets and smartphones are some of the different types of computers.
+An electronic machine which helps in solving problems quickly and easily.
+  It solves problems according to instructions given to it by the computer user called programs or software. 
+It is a digital machine(that uses binary digits) used in all fields.
